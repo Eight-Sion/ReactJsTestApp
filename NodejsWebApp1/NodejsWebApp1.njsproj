@@ -57,6 +57,9 @@
     <Compile Include="view\page\script\mainPage.js">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="view\page\script\ProgressBar.jsx">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="webpack-config.js">
       <SubType>Code</SubType>
     </Compile>
